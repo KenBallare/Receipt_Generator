@@ -1,0 +1,8 @@
+{
+'Standard Laptop': 45,
+'Advanced Laptop': 19,
+'Engineer Laptop': 4,
+'Standard Dock': 34,
+'Mouse/Keyboard':90,
+'Headset': 76
+}
